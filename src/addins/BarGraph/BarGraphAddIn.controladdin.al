@@ -1,4 +1,4 @@
-controladdin "Bar Graph Add-In"
+controladdin "SCR Bar Graph Add-In"
 {
     HorizontalShrink = true;
     HorizontalStretch = true;

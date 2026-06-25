@@ -1,12 +1,12 @@
 //JOA006+ 
-controladdin CKEditorNotes
+controladdin "SCR CKEditor Notes"
 {
     //Only need to specifie the width because the height is automaticcly added by the default editor
     RequestedWidth = 814;
     MaximumWidth = 814;
     //Script to include in the control add-in.  
-    Scripts = 'https://cdn.ckeditor.com/ckeditor5/36.0.1/classic/ckeditor.js', 'src\addins\CKEditorNotes\TextEditor.js';
-    //This script is invoked when the webpage (in this case page 60005 "Customer Notes" ) with the control add-in is loaded.
+    Scripts = 'https://cdn.ckeditor.com/ckeditor5/36.0.1/classic/ckeditor.js', 'src\addins\"SCR CKEditor Notes"\TextEditor.js';
+    //This script is invoked when the webpage (in this case page 50101 "SCR Customer Notes" ) with the control add-in is loaded.
     StartupScript = 'src\shared\ControlReady_startup.js';
 
     //In the ControlReady_startup.js we call this event to initialize the control add-in. 

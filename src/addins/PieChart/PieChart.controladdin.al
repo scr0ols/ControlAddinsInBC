@@ -1,5 +1,5 @@
 //JOA002+ 
-controladdin "Pie Charts AddIn"
+controladdin "SCR Pie Charts AddIn"
 {
     //This script is invoked when the webpage (in this case page 9305 "Sales Order List" ) with the control add-in is loaded.
     StartupScript = 'src\shared\ControlReady_startup.js';

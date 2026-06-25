@@ -40,10 +40,10 @@ function PieChart(DataJson)
             if (selectedItem) {
                 var value = data.getValue(selectedItem.row, 0);
                 if (value == 'Released') {
-                    //If the user click on the slice that represents the Released sales order we will invoke the FilterByReleasedStatus on "Pie Chart" page
+                    //If the user click on the slice that represents the Released sales order we will invoke the FilterByReleasedStatus on "SCR Pie Chart" page
                     Microsoft.Dynamics.NAV.InvokeExtensibilityMethod('FilterByReleasedStatus', []);
                 } else {
-                    //If the user click on the slice that represents the Open sales order we will invoke the FilterByOpenStatus on "Pie Chart" page
+                    //If the user click on the slice that represents the Open sales order we will invoke the FilterByOpenStatus on "SCR Pie Chart" page
                     Microsoft.Dynamics.NAV.InvokeExtensibilityMethod('FilterByOpenStatus', []);
                 }
             }

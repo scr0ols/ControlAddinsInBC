@@ -2,9 +2,9 @@
 controladdin "Pie Charts AddIn"
 {
     //This script is invoked when the webpage (in this case page 9305 "Sales Order List" ) with the control add-in is loaded.
-    StartupScript = 'src\script\ControlReady_startup.js';
+    StartupScript = 'src\shared\ControlReady_startup.js';
     //Script to include in the control add-in.  
-    Scripts = 'src\script\PieCharts.js', 'https://www.gstatic.com/charts/loader.js';
+    Scripts = 'src\addins\PieChart\PieCharts.js', 'https://www.gstatic.com/charts/loader.js';
     HorizontalStretch = true;
     VerticalStretch = true;
     //This is the area reserved in the web page for the control add-in.

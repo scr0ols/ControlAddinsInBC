@@ -14,13 +14,13 @@ controladdin "Drag and Drop AddIn"
     HorizontalStretch = true;
 
     //This script is invoked when the webpage (in this case page 31 "Item List" ) with the control add-in is loaded.
-    StartupScript = 'src\script\ControlReady_startup.js';
+    StartupScript = 'src\shared\ControlReady_startup.js';
 
     //Script to include in the control add-in.  
-    Scripts = 'src\script\DragDropScript.js', 'https://code.jquery.com/jquery-3.6.0.min.js';
+    Scripts = 'src\addins\DragDrop\DragDropScript.js', 'https://code.jquery.com/jquery-3.6.0.min.js';
 
     //Style to include
-    StyleSheets = 'src\stylesheet\DragDrop.stylesheet.css';
+    StyleSheets = 'src\addins\DragDrop\DragDrop.stylesheet.css';
 
     //In the ControlReady_startup.js we call this event to initialize the control add-in. This event will invoke the trigger ControlReady() in "Items by Countries" page.
     event ControlReady();

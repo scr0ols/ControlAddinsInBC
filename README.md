@@ -1,5 +1,7 @@
 # ControlAddins In BC
 
+![AL](https://img.shields.io/badge/AL-Language-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Business Central](https://img.shields.io/badge/Business%20Central-BC20-orange) ![License](https://img.shields.io/badge/License-MIT-green)
+
 A collection of JavaScript control add-ins for Microsoft Dynamics 365 Business
 Central, built for learning and demo purposes. Each add-in is wired into a
 standard BC page to show a complete, working example.

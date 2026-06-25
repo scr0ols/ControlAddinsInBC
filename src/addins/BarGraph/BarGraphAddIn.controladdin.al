@@ -4,8 +4,8 @@ controladdin "Bar Graph Add-In"
     HorizontalStretch = true;
     RequestedHeight = 500;
 
-    StartupScript = 'src\script\ControlReady_startup.js';
-    Scripts = 'src\script\BarChartsScript.js',
+    StartupScript = 'src\shared\ControlReady_startup.js';
+    Scripts = 'src\addins\BarGraph\BarChartsScript.js',
     'https://www.gstatic.com/charts/loader.js';
 
     event ControlReady();

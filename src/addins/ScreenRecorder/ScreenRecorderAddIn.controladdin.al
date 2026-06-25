@@ -10,9 +10,9 @@ controladdin "Screen Recorder AddIn"
     HorizontalStretch = true;
     HorizontalShrink = true;
     //Script to include in the control add-in.  
-    Scripts = 'src\script\ScreenRecorderScript.js';
+    Scripts = 'src\addins\ScreenRecorder\ScreenRecorderScript.js';
     //This script is invoked when the webpage (in this case page 60004 "Screen Recorder") with the control add-in is loaded.
-    StartupScript = 'src\script\ControlReady_startup.js';
+    StartupScript = 'src\shared\ControlReady_startup.js';
 
     //In the ControlReady_startup.js we call this event to initialize the control add-in. This event will invoke the trigger ControlReady() in "Screen Recorder" page.
     event ControlReady()

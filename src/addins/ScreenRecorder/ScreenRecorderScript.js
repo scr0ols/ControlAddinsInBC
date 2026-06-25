@@ -22,10 +22,10 @@ async function startRecord() {
         recorder.ondataavailable = (e) => chunks.push(e.data);
         recorder.start();
         recorder.onstop = onstop;
-        //call trigger ChangeButtonsStateStartClick() in "Screen Recorder" page
+        //call trigger ChangeButtonsStateStartClick() in "SCR Screen Recorder" page
         Microsoft.Dynamics.NAV.InvokeExtensibilityMethod("ChangeButtonsStateStartClick", []);
     } catch (error) {
-        //call trigger ChangeButtonsStateCancelClick() in "Screen Recorder" page
+        //call trigger ChangeButtonsStateCancelClick() in "SCR Screen Recorder" page
         Microsoft.Dynamics.NAV.InvokeExtensibilityMethod("ChangeButtonsStateCancelClick", []);
     }
 }
@@ -45,9 +45,9 @@ function onstop() {
     let reader = new FileReader();
     reader.readAsDataURL(completeBlob);
     let base64String = reader.result;
-    //call trigger ChangeButtonsStateStopClick() in "Screen Recorder" page
+    //call trigger ChangeButtonsStateStopClick() in "SCR Screen Recorder" page
     Microsoft.Dynamics.NAV.InvokeExtensibilityMethod("ChangeButtonsStateStopClick", []);
-    //Add the video to "Screen Recorder" page
+    //Add the video to "SCR Screen Recorder" page
     EmbedVideoToPage();
 }
 async function downloadVideo(){
@@ -58,7 +58,7 @@ async function downloadVideo(){
     document.body.appendChild(video);
     video.click();
     video.remove();
-    //call trigger ChangeButtonsStateDownloadClick() in "Screen Recorder" page
+    //call trigger ChangeButtonsStateDownloadClick() in "SCR Screen Recorder" page
     Microsoft.Dynamics.NAV.InvokeExtensibilityMethod("ChangeButtonsStateDownloadClick", []);
 }
 function createFileFormCurrentRecordedData() {

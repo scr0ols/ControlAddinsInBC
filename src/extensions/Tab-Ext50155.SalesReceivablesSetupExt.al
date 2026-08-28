@@ -1,5 +1,5 @@
 //JOA006+ 
-tableextension 50155 "SCR Sales Receivables Setup Ext" extends "Sales & Receivables Setup"
+tableextension 50155 "SCR Sales Receiv. Setup Ext" extends "Sales & Receivables Setup"
 {
     fields
     {

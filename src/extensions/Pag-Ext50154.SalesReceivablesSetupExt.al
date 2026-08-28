@@ -1,5 +1,5 @@
 //JOA006+ 
-pageextension 50154 "SCR Sales Receivables Setup Ext" extends "Sales & Receivables Setup"
+pageextension 50154 "SCR Sales Receiv. Setup Ext" extends "Sales & Receivables Setup"
 {
     layout
     {

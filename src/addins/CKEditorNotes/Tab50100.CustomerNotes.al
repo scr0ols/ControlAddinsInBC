@@ -14,7 +14,7 @@ table 50100 "SCR Customer Notes"
             begin
                 if "Note No." <> xRec."Note No." then begin
                     SalesSetup.Get();
-                    NoSeriesMgt.TestManual(SalesSetup."Note Nos.");
+                    NoSeries.TestManual(SalesSetup."Note Nos.");
                     "No. Series" := '';
                 end;
             end;
@@ -71,9 +71,15 @@ table 50100 "SCR Customer Notes"
         if "Note No." = '' then begin
             SalesSetup.Get();
             SalesSetup.TestField("Note Nos.");
-            NoSeriesMgt.InitSeries(SalesSetup."Note Nos.", xRec."No. Series", 0D, "Note No.", "No. Series");
-            Rec."Creation Date" := CurrentDateTime();
+
+            "No. Series" := SalesSetup."Note Nos.";
+            if NoSeries.AreRelated(SalesSetup."Note Nos.", xRec."No. Series") then
+                "No. Series" := xRec."No. Series";
+            "Note No." := NoSeries.GetNextNo("No. Series");
         end;
+
+        Rec."Creation Date" := CurrentDateTime();
+        Rec."Modification Date" := Rec."Creation Date";
     end;
 
     trigger OnModify()
@@ -85,6 +91,6 @@ table 50100 "SCR Customer Notes"
 
     var
         SalesSetup: Record "Sales & Receivables Setup";
-        NoSeriesMgt: Codeunit NoSeriesManagement;
+        NoSeries: Codeunit "No. Series";
 }
 //JOA006-

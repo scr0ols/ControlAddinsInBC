@@ -83,17 +83,10 @@ pageextension 50153 "SCR Customer Card Ext" extends "Customer Card"
                     trigger OnAction()
                     var
                         CustomerNote: Record "SCR Customer Notes";
-                        SalesSetup: Record "Sales & Receivables Setup";
-                        NoSeriesMgt: Codeunit NoSeriesManagement;
                     begin
-                        CustomerNote.Reset();
                         CustomerNote.Init();
-
-                        SalesSetup.Get();
-                        CustomerNote."Note No." := NoSeriesMgt.GetNextNo(SalesSetup."Note Nos.", Today, true);
                         CustomerNote."Customer No." := Rec."No.";
-                        CustomerNote."Modification Date" := CustomerNote."Creation Date";
-                        CustomerNote.Insert();
+                        CustomerNote.Insert(true);
                         Page.Run(50101, CustomerNote);
                     end;
                 }

@@ -14,7 +14,7 @@ table 50100 "SCR Customer Notes"
             begin
                 if "Note No." <> xRec."Note No." then begin
                     SalesSetup.Get();
-                    NoSeries.TestManual(SalesSetup."Note Nos.");
+                    NoSeries.TestManual(SalesSetup."SCR Note Nos.");
                     "No. Series" := '';
                 end;
             end;
@@ -70,10 +70,10 @@ table 50100 "SCR Customer Notes"
     begin
         if "Note No." = '' then begin
             SalesSetup.Get();
-            SalesSetup.TestField("Note Nos.");
+            SalesSetup.TestField("SCR Note Nos.");
 
-            "No. Series" := SalesSetup."Note Nos.";
-            if NoSeries.AreRelated(SalesSetup."Note Nos.", xRec."No. Series") then
+            "No. Series" := SalesSetup."SCR Note Nos.";
+            if NoSeries.AreRelated(SalesSetup."SCR Note Nos.", xRec."No. Series") then
                 "No. Series" := xRec."No. Series";
             "Note No." := NoSeries.GetNextNo("No. Series");
         end;

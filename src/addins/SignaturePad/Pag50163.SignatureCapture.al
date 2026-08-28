@@ -105,7 +105,7 @@ page 50163 "SCR Signature Capture"
         if HasSignature then begin
             SignedByInput := DocSignature."Signed By";
             SignedDate := DocSignature."Signed Date";
-            ExistingSignatureDataUrl := GetSignatureDataUrl(DocSignature);
+            ExistingSignatureDataUrl := DocSignatureMgt.GetDataUrl(DocSignature);
         end;
     end;
 
@@ -144,24 +144,6 @@ page 50163 "SCR Signature Capture"
     procedure SetViewOnly()
     begin
         ViewOnly := true;
-    end;
-
-    //A Media field is a normal field: the content is fetched on demand, no CalcFields
-    //involved. It is exported through a Temp Blob so it can be read back as base64.
-    local procedure GetSignatureDataUrl(var DocSignature: Record "SCR Document Signature"): Text
-    var
-        Base64Convert: Codeunit "Base64 Convert";
-        TempBlob: Codeunit "Temp Blob";
-        InStream: InStream;
-        OutStream: OutStream;
-    begin
-        if not DocSignature.Signature.HasValue() then
-            exit('');
-
-        TempBlob.CreateOutStream(OutStream);
-        DocSignature.Signature.ExportStream(OutStream);
-        TempBlob.CreateInStream(InStream);
-        exit('data:image/png;base64,' + Base64Convert.ToBase64(InStream));
     end;
 
     var

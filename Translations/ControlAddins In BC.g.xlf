@@ -403,6 +403,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCR Item List Ext - Action ViewItemsByCountry - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 2833396251 - Control 3395717972 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3434938165">
+          <source>Specifies whether a signature has been captured for this document. Filter on this field to find the documents still waiting to be signed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCR Posted Sales Inv List Ext - Control SCR Signed - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="PageExtension 3946983693 - Action 1807273798 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2420212404">
           <source>Capture or view the delivery and acceptance confirmation signature for this document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -413,15 +418,60 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCR Posted Sales Invoice Ext - Action SCR Capture Signature - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 3585515056 - Control 3080666072 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
-          <source>Note Nos.</source>
+        <trans-unit id="PageExtension 2475108702 - Action 1807273798 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3373253667">
+          <source>Capture or view the delivery and acceptance confirmation signature for this document.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCR Sales Receiv. Setup Ext - Control Note Nos. - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCR Posted Sales Shipment Ext - Action SCR Capture Signature - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="TableExtension 3585515056 - Field 3080666072 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+        <trans-unit id="PageExtension 2475108702 - Action 1807273798 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3373253667">
+          <source>Signature</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCR Posted Sales Shipment Ext - Action SCR Capture Signature - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3509383193 - Control 3395717972 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1840709038">
+          <source>Specifies whether a signature has been captured for this document. Filter on this field to find the documents still waiting to be signed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCR Posted Sales Shpt List Ext - Control SCR Signed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3585515056 - Control 2181494594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
           <source>Note Nos.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SCR Sales Receiv. Setup Ext - Field Note Nos. - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCR Sales Receiv. Setup Ext - Control SCR Note Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1071880431 - Field 3395717972 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Signed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SCR Sales Invoice Header Ext - Field SCR Signed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3585515056 - Field 2181494594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Note Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SCR Sales Receiv. Setup Ext - Field SCR Note Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3106447552 - Field 3395717972 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3118382297">
+          <source>Signed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SCR Sales Shipment Header Ext - Field SCR Signed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 4227714029 - ReportLabel 2490714059" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 3251426807">
+          <source>Issued By, signature:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension SCR Sales Shipment Ext - ReportLabel SignedBy</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 4227714029 - ReportLabel 1188432842" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 3251426807">
+          <source>Signed Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension SCR Sales Shipment Ext - ReportLabel SignedDate</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1533727819 - ReportLabel 2490714059" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 2226024577">
+          <source>Issued By, signature:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension SCR Standard Sales Invoice Ext - ReportLabel SignedBy</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1533727819 - ReportLabel 1188432842" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 2226024577">
+          <source>Signed Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension SCR Standard Sales Invoice Ext - ReportLabel SignedDate</note>
         </trans-unit>
       </group>
     </body>

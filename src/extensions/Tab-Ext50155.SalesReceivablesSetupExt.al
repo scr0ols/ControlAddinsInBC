@@ -3,7 +3,7 @@ tableextension 50155 "SCR Sales Receiv. Setup Ext" extends "Sales & Receivables 
 {
     fields
     {
-        field(50000; "Note Nos."; Code[20])
+        field(50000; "SCR Note Nos."; Code[20])
         {
             Caption = 'Note Nos.';
             TableRelation = "No. Series";

@@ -5,7 +5,7 @@ pageextension 50154 "SCR Sales Receiv. Setup Ext" extends "Sales & Receivables S
     {
         addafter("Customer Nos.")
         {
-            field("Note Nos."; Rec."Note Nos.")
+            field("SCR Note Nos."; Rec."SCR Note Nos.")
             {
                 Caption = 'Note Nos.';
                 ApplicationArea = All;

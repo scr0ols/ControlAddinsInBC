@@ -31,10 +31,6 @@ page 50165 "SCR Document Signature List"
                 {
                     ApplicationArea = All;
                     ToolTip = 'Specifies the document this signature belongs to. Drill down to view the signature.';
-
-                    TableRelation = "Sales Invoice Header" where("No." = field("Document No."));
-
-
                 }
                 field("Signed By"; Rec."Signed By")
                 {

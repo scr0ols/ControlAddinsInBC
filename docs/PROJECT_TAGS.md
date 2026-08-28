@@ -44,3 +44,16 @@ and one to list existing notes, where each can be viewed and edited.
 
 This example also implements a "No. Series" for the notes, so a few
 supporting tables/pages exist solely for that purpose.
+
+## JOA007 — Signature Pad
+
+Captures a handwritten signature on a document and stores it with the record.
+
+The "Posted Sales Invoice" page gets a promoted "Signature" action that opens a
+modal capture page: the user types who is signing, draws on the pad with the
+mouse or a touch screen, and confirms. The signature is kept as a Media field
+in a generic table keyed by table ID and document number, so the same storage
+can back other document types later.
+
+A "Document Signatures" list page acts as a read-only register of everything
+captured, where each entry can be drilled into to view the signature.

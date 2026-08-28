@@ -17,6 +17,7 @@ standard BC page to show a complete, working example.
 | **Drag and Drop** *(experimental)* | Item List | Drop JSON files to bulk-create items |
 | **Pie Chart** | Sales Order List | Pie chart of open vs. released sales orders |
 | **Screen Recorder** | Screen Recorder page | Record the screen and download the video |
+| **Signature Pad** | Posted Sales Invoice | Draw and store a handwritten signature on the document |
 
 See [docs/PROJECT_TAGS.md](docs/PROJECT_TAGS.md) for a feature-by-feature
 breakdown and the `//JOA00X` comment tags used to locate each one in the code.

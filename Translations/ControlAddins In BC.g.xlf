@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="ControlAddins In BC">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 286694735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Notes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCR Customer Notes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 286694735 - Field 1407200743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creation Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCR Customer Notes - Field Creation Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 286694735 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCR Customer Notes - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 286694735 - Field 538080462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modification Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCR Customer Notes - Field Modification Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 286694735 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCR Customer Notes - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 286694735 - Field 3862027611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Note Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCR Customer Notes - Field Note Content - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 286694735 - Field 57030804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Note created</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCR Customer Notes - Field Note created - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 286694735 - Field 802281449 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Note No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCR Customer Notes - Field Note No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 286694735 - Field 329424276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCR Customer Notes - Field Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1531642851 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Signature</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCR Document Signature - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1531642851 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCR Document Signature - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1531642851 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCR Document Signature - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1531642851 - Field 3765202864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Signature</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCR Document Signature - Field Signature - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1531642851 - Field 1852058259 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Signed By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCR Document Signature - Field Signed By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1531642851 - Field 3210960167 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Signed By User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCR Document Signature - Field Signed By User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1531642851 - Field 3660008994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Signed Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCR Document Signature - Field Signed Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1531642851 - Field 3017471043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCR Document Signature - Field Table No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 286694735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Note</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Customer Notes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 286694735 - Method 4177352842 - NamedType 149879980" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If you close without a title the note won't be saved. Are you sure?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Customer Notes - Method OnQueryClosePage - NamedType DialogTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 286694735 - Control 633175764 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Note</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Customer Notes - Control Body - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 286694735 - Control 907109761 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Note informations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Customer Notes - Control Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 286694735 - Control 1407200743 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Creation Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Customer Notes - Control Creation Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 286694735 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Customer Notes - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 286694735 - Control 538080462 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Modification Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Customer Notes - Control Modification Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 286694735 - Control 802281449 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ID field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Customer Notes - Control Note No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 286694735 - Control 329424276 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Title field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Customer Notes - Control Title - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 990750809 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Notes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Customer Notes List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 990750809 - Control 1407200743 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Creation Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Customer Notes List - Control Creation Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 990750809 - Control 538080462 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Modification Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Customer Notes List - Control Modification Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 990750809 - Control 802281449 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ID field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Customer Notes List - Control Note No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 990750809 - Control 329424276 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Title field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Customer Notes List - Control Title - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1975308813 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Signatures</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Document Signature List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1975308813 - Control 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the document this signature belongs to. Drill down to view the signature.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Document Signature List - Control Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1975308813 - Control 2488229775 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the kind of document this signature was captured for.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Document Signature List - Control DocumentTypeField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1975308813 - Control 2488229775 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Document Signature List - Control DocumentTypeField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1975308813 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the unique number of the signature entry.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Document Signature List - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1975308813 - Control 1852058259 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the person who signed the document.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Document Signature List - Control Signed By - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1975308813 - Control 3210960167 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Business Central user that captured the signature.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Document Signature List - Control Signed By User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1975308813 - Control 3660008994 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies when the document was signed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Document Signature List - Control Signed Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1975308813 - Control 3017471043 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the ID of the source document table.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Document Signature List - Control Table No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3074880636 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create items from json</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Drag and Drop - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2977772155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items by country</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Items by Countries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2977772155 - Control 292082969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Items by Countries - Control rep - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2977772155 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Items by Countries - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2977772155 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Items by Countries - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2977772155 - Control 2937233469 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Unit Price field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Items by Countries - Control Unit Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2977772155 - Control 1527594213 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Vendor No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Items by Countries - Control Vendor No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2977772155 - Action 2026913255 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculates number of sold items by country</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Items by Countries - Action Refresh - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2977772155 - Action 2026913255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Refresh</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Items by Countries - Action Refresh - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 219884046 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Pie Chart - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2936648240 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bug reporting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Screen Recorder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2936648240 - Action 3624719074 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record screen to show bugs and send them to Arquiconsult so we can fix them</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Screen Recorder - Action ScreenRecorder - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2936648240 - Action 3624719074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record screen</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Screen Recorder - Action ScreenRecorder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2936648240 - Action 4289787295 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download video</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Screen Recorder - Action DownloadVideo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2936648240 - Action 3809586591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start screen recording</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Screen Recorder - Action StartRecord - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2936648240 - Action 3741655103 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stop screen recording</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Screen Recorder - Action StopRecord - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2705978822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Capture Signature</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Signature Capture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2705978822 - NamedType 1222118548" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Draw a signature before saving.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Signature Capture - NamedType SignatureRequiredErr</note>
+        </trans-unit>
+        <trans-unit id="Page 2705978822 - NamedType 519774143" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specify who is signing the document before saving.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Signature Capture - NamedType SignedByRequiredErr</note>
+        </trans-unit>
+        <trans-unit id="Page 2705978822 - Control 907109761 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Signature Capture - Control Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2705978822 - Control 1731618904 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the document this signature belongs to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Signature Capture - Control DocumentNoField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2705978822 - Control 1731618904 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Signature Capture - Control DocumentNoField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2705978822 - Control 647831746 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether to unlock the pad so that the current signature can be erased and a new one captured.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Signature Capture - Control ReplaceField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2705978822 - Control 647831746 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replace Signature</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Signature Capture - Control ReplaceField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2705978822 - Control 581834101 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the person signing this document.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Signature Capture - Control SignedByField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2705978822 - Control 581834101 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Signed By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Signature Capture - Control SignedByField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2705978822 - Control 1370584152 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies when this document was signed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Signature Capture - Control SignedDateField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2705978822 - Control 1370584152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Signed Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Signature Capture - Control SignedDateField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2705978822 - Control 4274304797 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Signature</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Signature Capture - Control SignatureArea - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4224002370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Testting Microsoft AddIn</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Testing Microsoft AddIn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4224002370 - NamedType 2374100451" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;div class="myDiv" style="width:flex;height:25px;border:1px solid black;background-color:#92b0b3"&gt;If you click on the action you will be able to play a game;)&lt;/div&gt;&lt;hr width="flex" color="red" size="1"&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Testing Microsoft AddIn - NamedType content</note>
+        </trans-unit>
+        <trans-unit id="Page 4224002370 - NamedType 2175727848" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;iframe seamless="seamless" allowtransparency="true" allowfullscreen="true" frameborder="0" style="width: 100%;height: 100%;border: 0px;" src="https://zv1y2i8p.play.gamezop.com/g/REwFeKcoN"&gt; &lt;/iframe&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Testing Microsoft AddIn - NamedType gunMasteriFrame</note>
+        </trans-unit>
+        <trans-unit id="Page 4224002370 - Action 2781217257 - Method 1377591017 - NamedType 4110427928" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy" text-align="center"&gt;&lt;/iframe&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCR Testing Microsoft AddIn - Action Add game - Method OnAction - NamedType contentHtml</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 549062077 - Action 222620933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Customer Notes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCR Customer Card Ext - Action Notes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 549062077 - Action 1819142352 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>New Note</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCR Customer Card Ext - Action New Note - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 549062077 - Action 286694735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Customer Notes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCR Customer Card Ext - Action SCR Customer Notes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2231028087 - Action 222620933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Customer Notes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCR Customer List Ext - Action Notes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2231028087 - Action 1819142352 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>New Note</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCR Customer List Ext - Action New Note - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2231028087 - Action 286694735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Customer Notes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCR Customer List Ext - Action SCR Customer Notes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1589403464 - Action 2550466412 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Item per countries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCR Item List Ext - Action ViewItemsByCountry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3946983693 - Action 1807273798 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2420212404">
+          <source>Capture or view the delivery and acceptance confirmation signature for this document.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCR Posted Sales Invoice Ext - Action SCR Capture Signature - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3946983693 - Action 1807273798 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2420212404">
+          <source>Signature</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCR Posted Sales Invoice Ext - Action SCR Capture Signature - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3585515056 - Control 3080666072 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Note Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCR Sales Receiv. Setup Ext - Control Note Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3585515056 - Field 3080666072 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Note Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SCR Sales Receiv. Setup Ext - Field Note Nos. - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
